@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9190b33b-6e87-44c6-a3b2-284cd920b3a6" name="Default" comment="" />
+    <list default="true" id="9190b33b-6e87-44c6-a3b2-284cd920b3a6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prac1_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prac1_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/prac1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonChallenge_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/PythonChallenge_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonChallenge_02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/PythonChallenge_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -92,6 +112,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>e</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -107,14 +132,15 @@
         <option value="$PROJECT_DIR$/venv/prac_2.py" />
         <option value="$PROJECT_DIR$/venv/prac1_1.py" />
         <option value="$PROJECT_DIR$/venv/prac_1.py" />
+        <option value="$PROJECT_DIR$/venv/PythonChallenge_01.py" />
+        <option value="$PROJECT_DIR$/venv/PythonChallenge_02.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="7" />
-    <option name="width" value="1438" />
-    <option name="height" value="1000" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,6 +169,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prac1_1">
-    <configuration name="exer3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PythonChallenge_02">
+    <configuration name="PythonChallenge_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,13 +196,13 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/exer3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PythonChallenge_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exer4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PythonChallenge_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/exer4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PythonChallenge_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +275,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.exer3" />
-      <item itemvalue="Python.exer4" />
       <item itemvalue="Python.prac_1" />
       <item itemvalue="Python.prac_2" />
       <item itemvalue="Python.prac1_1" />
+      <item itemvalue="Python.PythonChallenge_01" />
+      <item itemvalue="Python.PythonChallenge_02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prac1_1" />
+        <item itemvalue="Python.PythonChallenge_02" />
+        <item itemvalue="Python.PythonChallenge_01" />
         <item itemvalue="Python.prac_1" />
         <item itemvalue="Python.prac_2" />
-        <item itemvalue="Python.exer4" />
-        <item itemvalue="Python.exer3" />
+        <item itemvalue="Python.prac1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -278,15 +305,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="7" width="1438" height="1000" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17510548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25991648" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5028129" side_tool="true" visible="true" weight="0.3495475" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5031315" side_tool="true" visible="true" weight="0.3319012" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49718705" visible="true" weight="0.3495475" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49686846" weight="0.3319012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -461,8 +488,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/prac1_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/PythonChallenge_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/PythonChallenge_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
